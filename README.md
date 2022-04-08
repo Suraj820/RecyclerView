@@ -1,3 +1,3 @@
 # RecyclerView
-Learning about RecyclerView
-![Out put](screenshot.png?raw=true "Output")
+Learning about RecyclerView in Kotlin</br>
+![Out put](Screenshot.png?raw=true "Output")
